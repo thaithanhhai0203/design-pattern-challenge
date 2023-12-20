@@ -1,1 +1,1 @@
-# design-pattern-typescript
+# design-pattern-challenge
