@@ -1,0 +1,20 @@
+{
+  "name": "design-pattern-typescript",
+  "version": "1.0.0",
+  "description": "## What's a design pattern? Design pattern are well-established solutions for recurring problems that software engineers often encounter. They are not actual code, but rather a description of how to solve these problems and design a solution.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaithanhhai0203/design-pattern-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaithanhhai0203/design-pattern-typescript/issues"
+  },
+  "homepage": "https://github.com/thaithanhhai0203/design-pattern-typescript#readme"
+}
